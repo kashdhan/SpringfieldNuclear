@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringfieldNuclear", "SpringfieldNuclear\SpringfieldNuclear.csproj", "{952B2FD3-E0ED-479B-AF44-3A864A0B820C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952B2FD3-E0ED-479B-AF44-3A864A0B820C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952B2FD3-E0ED-479B-AF44-3A864A0B820C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952B2FD3-E0ED-479B-AF44-3A864A0B820C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952B2FD3-E0ED-479B-AF44-3A864A0B820C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40069320-7D54-4D37-89F4-73CEB2E87EBE}
+	EndGlobalSection
+EndGlobal
