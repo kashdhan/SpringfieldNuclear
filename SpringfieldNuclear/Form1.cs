@@ -33,7 +33,7 @@ namespace SpringfieldNuclear
         {
             SoundPlayer player = new SoundPlayer(Properties.Resources.alert);
             player.Play();
-            outputLabel.Text = "REACTOR MELTDOWN!!!";
+            outputLabel.Text = "WE ARE ALL GOING TO DIE!!!";
 
             reactor2StateLabel.BackColor = Color.Red; 
             reactor1StateLabel.BackColor = Color.Red;
